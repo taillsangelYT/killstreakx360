@@ -1,5 +1,5 @@
 /*
-This code is currently empty, not released.
+This code is currently barely empty, not released.
 You could either wait for Cosmos Public Plugin to release.
 Thanks!
 */
