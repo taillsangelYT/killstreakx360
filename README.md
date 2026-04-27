@@ -13,12 +13,13 @@ No. i'm making this plugin so that the killstreak doesn't need Cosmos X alone.
 # I don't know what a Cosmos X Plugin is!
 "Cosmos is a modification to TF2 on the Orange Box that makes loading mods easy and organized. 
 Cosmos comes with a powerful anti-cheat so bad actors can not screw up any ongoing modified games. 
-No god mode, no team switchers, no unneeded commands that could be ran in game providing seamless gameplay!"
+No god mode, no team switchers, no unneeded commands that could be ran in game providing seamless gameplay!
+With the Cosmos X plugin we are able to provide even more than we ever could!
+Thanks to the hard work j0w03l, PapaQuill, and other Cosmos members have been putting in,
+We have things like "Airblast", proper logging of things that happen in the background, optimizations, blacklisting bad actors, 
+killstreaks, and the list just goes on and on!"
 - KrazyDav
 
-​
-
-With the Cosmos X plugin we are able to provide even more than we ever could! Thanks to the hard work j0w03l, PapaQuill, and other Cosmos members have been putting in, We have things like "Airblast", proper logging of things that happen in the background, optimizations, blacklisting bad actors, killstreaks, and the list just goes on and on!
 # Instructions
 - Put the tf2killstreak.xex in the HDD or any device. (HDD is recommended)
 - Open your plugin injector program
