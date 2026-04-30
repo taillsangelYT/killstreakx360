@@ -19,6 +19,7 @@ Thanks to the hard work j0w03l, PapaQuill, and other Cosmos members have been pu
 We have things like "Airblast", proper logging of things that happen in the background, optimizations, blacklisting bad actors, 
 killstreaks, and the list just goes on and on!"
 - KrazyDav
+[Original Quote](https://www.tf2xboxnews.com/modding-community)
 
 # Instructions
 - Put the tf2killstreak.xex in the HDD or any device. (HDD is recommended)
